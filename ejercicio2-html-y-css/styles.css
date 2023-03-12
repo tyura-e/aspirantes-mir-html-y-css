@@ -1,0 +1,38 @@
+@media (min-width: 500px){
+    width: 300px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+.total {
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    color: white;
+    box-shadow:  5px 5px 5px 3px rgba(0, 0, 0, 0.2);
+}
+.formulario{
+    display: grid;
+    padding: 7px;
+    width: 100%;
+}
+.formulario-aceptar{
+    padding: 7px;
+    width: 100%;
+}
+
+.boton{
+    display: flex;
+    justify-content: right;
+    
+}
+.button{
+    padding: 5px 15px 5px 15px;
+    
+}
+
+
+
